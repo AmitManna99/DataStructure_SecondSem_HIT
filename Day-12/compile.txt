@@ -1,0 +1,5 @@
+Folding Method 
+    gcc -o main folding.c
+
+Mid-Square Method
+    gcc -o main mid_square.c
